@@ -16,11 +16,11 @@ The algorithm to achieve this effect is very simple. First we take the image and
 
 ### Normal Mask
 ```
-python <path/to/image>
+python miniatures.py <path/to/image>
 ```
 ### Custom Mask
 ```
-python <path/to/image> <path/to/mask>
+python miniatures.py <path/to/image> <path/to/mask>
 ```
 
 
